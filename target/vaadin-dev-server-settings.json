@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Users/theku/Workspace/Vaadin/./src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/theku/Workspace/Vaadin/./src/main/frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/theku/Workspace/Vaadin/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\theku\\Workspace\\Vaadin\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\theku\\Workspace\\Vaadin\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/theku/Workspace/Vaadin/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/theku/Workspace/Vaadin/target/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/theku/Workspace/Vaadin/./src/main/frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "C:\\Users\\theku\\Workspace\\Vaadin\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
